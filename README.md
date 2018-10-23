@@ -2,7 +2,7 @@
 
 基于 [ vue-piczoom 项目修改](https://github.com/826327700/vue-piczoom) 
 
-#所有权限归原作者所有
+## 所有权限归原作者所有
 
 > A picture magnifier component for Vue.js 2.x
 基于vue2.x的电商图片放大镜插件
