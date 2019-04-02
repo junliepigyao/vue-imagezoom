@@ -1,8 +1,8 @@
 {
-  "name": "vue-piczoom",
-  "version": "1.0.6",
+  "name": "vue-picturezoom",
+  "version": "1.0.0",
   "description": "A picture magnifier component for Vue.js 2.x",
-  "author": "xiaobaozi <826327700@qq.com>",
+  "author": "Jeffery G.",
   "private": false,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
@@ -60,9 +60,14 @@
     "last 2 versions",
     "not ie <= 8"
   ],
-  "main": "src/components/PicZoom.vue", 
+  "main": "src/components/PicZoom.vue",
   "repository": {
     "type": "git",
-    "url": "https://github.com/826327700/vue-piczoom"
-  }
+    "url": "git+https://github.com/junliepigyao/vue-imagezoom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/junliepigyao/vue-imagezoom/issues"
+  },
+  "homepage": "https://github.com/junliepigyao/vue-imagezoom#readme",
+  "license": "ISC"
 }

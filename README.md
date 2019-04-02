@@ -1,4 +1,7 @@
-# vue-imagezoom 基于 vue-piczoom
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+[![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
+# vue-picturezoom 基于 vue-piczoom
 
 基于 [ vue-piczoom 项目修改](https://github.com/826327700/vue-piczoom) 
 
@@ -11,12 +14,12 @@
 
 ``` bash
 # 安装 install
-yarn add vue-imagezoom --save
+yarn add vue-picturezoom --save
 ```
 ``` bash
 # 使用 use
 --script
-import ImageZoom from 'vue-imagezoom'
+import ImageZoom from 'vue-picturezoom'
 export default {
   name: 'App',
   components: {
@@ -47,7 +50,7 @@ positionbox | 基于此父元素定位  | string #ID required
 ![zoom2.gif](http://upload-images.jianshu.io/upload_images/6651371-e26a702c2ef8651a.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### Demo 示例
-[在线示例](https://826327700.github.io/vue-imagezoom/dist/ "图片放大镜")
+[在线示例](https://826327700.github.io/vue-picturezoom/dist/ "图片放大镜")
 
 ### Modify 修改
 
